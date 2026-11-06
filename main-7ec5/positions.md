@@ -4,14 +4,14 @@
 {"version":1,
 "cards":{
 "Untitled-2.md":{"x":-965,"y":-50,"w":280,"h":200,"color":"green"},
-"Untitled-3.md":{"x":-1365,"y":-62,"w":280,"h":200,"color":"purple"},
+"Untitled-3.md":{"x":-1331,"y":-34,"w":280,"h":200,"color":"purple"},
 "Untitled.md":{"x":-932,"y":271,"w":280,"h":200,"color":"yellow"},
 "positions.md":{"x":0,"y":775,"w":280,"h":200,"color":"paper"},
-"teste.md":{"x":-1160,"y":1,"w":280,"h":200,"color":"blue"}
+"teste.md":{"x":-1346,"y":260,"w":280,"h":200,"color":"blue"}
 },
 "frames":[
 {"id":"f-mw5kllr6u2y","title":"IDEAS","color":"paper","x":-1002,"y":-144,"w":370,"h":769},
-{"id":"f-mw5klz74shf","title":"TESTE","color":"paper","x":-1375,"y":-153,"w":368,"h":358}
+{"id":"f-mw5klz74shf","title":"TESTE","color":"paper","x":-1375,"y":-153,"w":368,"h":770}
 ],
 "connections":[],
 "labels":{}}
