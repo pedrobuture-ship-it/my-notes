@@ -2,16 +2,22 @@
   "format": 1,
   "murals": [
     {
+      "id": "2e6e",
+      "name": "Main",
+      "folder": "main-2e6e",
+      "order": 0
+    },
+    {
       "id": "7ec5",
       "name": "Main",
       "folder": "main-7ec5",
-      "order": 0
+      "order": 1
     },
     {
       "id": "40c4",
       "name": "Ideas",
       "folder": "ideas-40c4",
-      "order": 1
+      "order": 2
     }
   ]
 }
