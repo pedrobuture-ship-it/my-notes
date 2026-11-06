@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "murals": [
+    {
+      "id": "7ec5",
+      "name": "Main",
+      "folder": "main-7ec5",
+      "order": 0
+    },
+    {
+      "id": "40c4",
+      "name": "Ideas",
+      "folder": "ideas-40c4",
+      "order": 1
+    }
+  ]
+}
