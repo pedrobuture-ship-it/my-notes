@@ -1,0 +1,3 @@
+# IMPLEMENTAR PWA BM NOTES
+
+Fazer favicon

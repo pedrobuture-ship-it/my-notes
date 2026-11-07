@@ -3,12 +3,20 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled-2.md":{"x":-1760,"y":-307,"w":280,"h":200,"color":"blue"},
-"Untitled-3 (from other).md":{"x":-1960,"y":-46,"w":280,"h":200,"color":"paper"},
-"Untitled-3.md":{"x":-2256,"y":-312,"w":256,"h":187,"color":"pink"},
-"Untitled.md":{"x":-2271,"y":-80,"w":271,"h":186,"color":"green"}
+"adicionar-suporte-de-caneta.md":{"x":-2422,"y":-446,"w":280,"h":200,"color":"yellow"},
+"code-review.md":{"x":-2059,"y":-73,"w":280,"h":200,"color":"pink"},
+"escrever-em-pdf.md":{"x":-2072,"y":-446,"w":280,"h":200,"color":"yellow"},
+"gravar-video.md":{"x":-2072,"y":164,"w":280,"h":200,"color":"purple"},
+"implementar-pwa-bm-notes.md":{"x":-1683,"y":-81,"w":280,"h":200,"color":"blue"},
+"planejar-criativos.md":{"x":-2422,"y":-73,"w":280,"h":200,"color":"blue"},
+"verificar-contas.md":{"x":-2422,"y":154,"w":280,"h":200,"color":"green"}
 },
-"frames":[],
+"frames":[
+{"id":"f-mw5oxogv4zq","title":"A FAZER","color":"blue","x":-2450,"y":-127,"w":326,"h":820},
+{"id":"f-mw5oy1t856i","title":"FAZENDO","color":"yellow","x":-2097,"y":-132,"w":355,"h":818},
+{"id":"f-mw5oz6nl9bt","title":"FLUXOS","color":"paper","x":-2456,"y":-532,"w":1094,"h":371},
+{"id":"f-mw5ozk8a9d3","title":"FEITO","color":"paper","x":-1721,"y":-133,"w":355,"h":811}
+],
 "connections":[],
 "labels":{}}
 ```
