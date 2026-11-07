@@ -4,13 +4,13 @@
 {"version":1,
 "cards":{
 "adicionar-suporte-de-caneta.md":{"x":-47,"y":11,"w":280,"h":200,"color":"pink"},
-"aniversario-namoro.md":{"x":1123,"y":-310,"w":655,"h":389,"color":"pink"},
+"aniversario-namoro.md":{"x":1071,"y":-167,"w":655,"h":389,"color":"pink"},
 "code-review.md":{"x":683,"y":22,"w":280,"h":200,"color":"purple"},
 "escrever-em-pdf.md":{"x":304,"y":6,"w":280,"h":200,"color":"blue"},
 "gravar-video.md":{"x":-32,"y":336,"w":280,"h":200,"color":"yellow"},
-"implementar-pwa-bm-notes.md":{"x":347,"y":340,"w":280,"h":200,"color":"purple"},
+"implementar-pwa-bm-notes.md":{"x":351,"y":336,"w":280,"h":200,"color":"purple"},
 "planejar-criativos.md":{"x":-47,"y":802,"w":280,"h":200,"color":"blue"},
-"r/adicionar-sons.md":{"x":346,"y":589,"w":281,"h":184,"color":"paper"},
+"r/adicionar-sons.md":{"x":350,"y":589,"w":281,"h":184,"color":"paper"},
 "retorno-email.md":{"x":703,"y":336,"w":280,"h":200,"color":"green"},
 "verificar-contas.md":{"x":-47,"y":573,"w":280,"h":200,"color":"green"}
 },
