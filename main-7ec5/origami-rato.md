@@ -1,2 +1,0 @@
-# Origami Rato
-
