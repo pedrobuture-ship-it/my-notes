@@ -22,7 +22,7 @@
 {"id":"f-mw5p9hbfsfe","title":"A FAZER","color":"paper","x":-87,"y":312,"w":366,"h":795},
 {"id":"f-mw5p9pgnv14","title":"PRONTO","color":"paper","x":308,"y":312,"w":348,"h":799},
 {"id":"f-mw5paxvweoa","title":"FLUXO","color":"paper","x":-86,"y":-67,"w":1092,"h":355},
-{"id":"f-mw5pg9w0tby","title":"ESPERANDO","color":"paper","x":683,"y":314,"w":319,"h":801},
+{"id":"f-mw5pg9w0tby","title":"ESPERANDO","color":"green","x":683,"y":314,"w":319,"h":801},
 {"id":"f-mw5pjdeuxhg","title":"oi","color":"purple","x":1056,"y":246,"w":1201,"h":428}
 ],
 "connections":[],
