@@ -3,7 +3,6 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled.md":{"x":703,"y":573,"w":280,"h":200,"color":"paper"},
 "adicionar-sons.md":{"x":347,"y":577,"w":286,"h":209,"color":"paper"},
 "adicionar-suporte-de-caneta.md":{"x":-47,"y":11,"w":280,"h":200,"color":"pink"},
 "aniversario-namoro.md":{"x":1101,"y":-205,"w":655,"h":389,"color":"pink"},
@@ -12,6 +11,7 @@
 "gravar-video.md":{"x":-32,"y":336,"w":280,"h":200,"color":"yellow"},
 "implementar-pwa-bm-notes.md":{"x":347,"y":340,"w":280,"h":200,"color":"purple"},
 "planejar-criativos.md":{"x":-47,"y":802,"w":280,"h":200,"color":"blue"},
+"r/adicionar-sons.md":{"x":333,"y":564,"w":286,"h":209,"color":"paper"},
 "retorno-email.md":{"x":703,"y":336,"w":280,"h":200,"color":"green"},
 "verificar-contas.md":{"x":-47,"y":573,"w":280,"h":200,"color":"green"}
 },
