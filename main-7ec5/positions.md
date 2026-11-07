@@ -13,7 +13,7 @@
 "gravar-video.md":{"x":-47,"y":336,"w":280,"h":200,"color":"yellow"},
 "implementar-pwa-bm-notes.md":{"x":333,"y":332,"w":280,"h":200,"color":"purple"},
 "planejar-criativos.md":{"x":-47,"y":802,"w":280,"h":200,"color":"blue"},
-"retorno-email.md":{"x":708,"y":346,"w":280,"h":200,"color":"green"},
+"retorno-email.md":{"x":703,"y":336,"w":280,"h":200,"color":"green"},
 "teste.md":{"x":1101,"y":356,"w":280,"h":200,"color":"green"},
 "teste2.md":{"x":1488,"y":344,"w":280,"h":200,"color":"pink"},
 "verificar-contas.md":{"x":-47,"y":573,"w":280,"h":200,"color":"green"}
