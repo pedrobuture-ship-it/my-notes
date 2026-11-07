@@ -13,7 +13,6 @@
 "implementar-pwa-bm-notes.md":{"x":347,"y":340,"w":280,"h":200,"color":"purple"},
 "planejar-criativos.md":{"x":-47,"y":802,"w":280,"h":200,"color":"blue"},
 "retorno-email.md":{"x":703,"y":336,"w":280,"h":200,"color":"green"},
-"teste.md":{"x":1081,"y":344,"w":280,"h":200,"color":"green"},
 "verificar-contas.md":{"x":-47,"y":573,"w":280,"h":200,"color":"green"}
 },
 "frames":[
