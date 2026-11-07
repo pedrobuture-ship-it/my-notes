@@ -5,10 +5,14 @@
 "cards":{
 "adicionar-suporte-de-caneta.md":{"x":-2422,"y":-446,"w":280,"h":200,"color":"yellow"},
 "code-review.md":{"x":-2059,"y":-73,"w":280,"h":200,"color":"pink"},
+"demosntrar.md":{"x":-1296,"y":65,"w":280,"h":200,"color":"paper"},
 "escrever-em-pdf.md":{"x":-2072,"y":-446,"w":280,"h":200,"color":"yellow"},
 "gravar-video.md":{"x":-2072,"y":164,"w":280,"h":200,"color":"purple"},
+"implementar-git.md":{"x":-1296,"y":345,"w":280,"h":200,"color":"paper"},
 "implementar-pwa-bm-notes.md":{"x":-1683,"y":-81,"w":280,"h":200,"color":"blue"},
+"implementar-sons.md":{"x":-1296,"y":-495,"w":280,"h":200,"color":"paper"},
 "planejar-criativos.md":{"x":-2422,"y":-73,"w":280,"h":200,"color":"blue"},
+"sons.md":{"x":-1296,"y":-215,"w":280,"h":200,"color":"paper"},
 "verificar-contas.md":{"x":-2422,"y":154,"w":280,"h":200,"color":"green"}
 },
 "frames":[
