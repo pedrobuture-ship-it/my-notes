@@ -3,7 +3,6 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled-2.md":{"x":0,"y":1082,"w":280,"h":200,"color":"paper"},
 "adicionar-suporte-de-caneta.md":{"x":-47,"y":11,"w":280,"h":200,"color":"pink"},
 "aniversario-namoro.md":{"x":1101,"y":-205,"w":655,"h":389,"color":"pink"},
 "code-review.md":{"x":681,"y":6,"w":280,"h":200,"color":"purple"},
