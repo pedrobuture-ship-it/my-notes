@@ -4,10 +4,10 @@
 {"version":1,
 "cards":{
 "Untitled.md":{"x":331,"y":359,"w":280,"h":200,"color":"paper"},
-"adicionar-ia-imagens.md":{"x":-39,"y":346,"w":280,"h":200,"color":"green"},
-"terra.md":{"x":645,"y":514,"w":280,"h":200,"color":"blue"},
-"verificar-licencas.md":{"x":297,"y":11,"w":280,"h":200,"color":"paper"},
-"verificar-memoria.md":{"x":-39,"y":11,"w":280,"h":200,"color":"paper"}
+"adicionar-ia-imagens.md":{"x":-27,"y":0,"w":280,"h":200,"color":"paper"},
+"terra.md":{"x":320,"y":0,"w":280,"h":200,"color":"paper"},
+"verificar-licencas.md":{"x":659,"y":0,"w":280,"h":200,"color":"paper"},
+"verificar-memoria.md":{"x":-39,"y":354,"w":280,"h":200,"color":"paper"}
 },
 "frames":[
 {"id":"f-mw5p9hbfsfe","title":"A FAZER","color":"paper","x":-82,"y":318,"w":366,"h":795},
