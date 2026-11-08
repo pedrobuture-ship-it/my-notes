@@ -3,15 +3,15 @@
 ```json
 {"version":1,
 "cards":{
-"academia-diaria.md":{"x":-69,"y":3,"w":280,"h":200,"color":"green"},
-"comprar-racao-florzinha.md":{"x":701,"y":3,"w":280,"h":200,"color":"green"},
-"eletrocardiograma.md":{"x":313,"y":342,"w":314,"h":211,"color":"pink"},
-"farmacologia.md":{"x":-55,"y":351,"w":313,"h":199,"color":"blue"},
-"notas.md":{"x":-821,"y":281,"w":555,"h":385,"color":"paper"},
-"revisao-pratica.md":{"x":-26,"y":613,"w":255,"h":357,"color":"yellow"},
-"tomar-hipercalorico.md":{"x":313,"y":3,"w":280,"h":200,"color":"green"},
-"trabalho-anato.md":{"x":319,"y":578,"w":305,"h":502,"color":"green"},
-"verificar-aulas-semana.md":{"x":701,"y":351,"w":280,"h":200,"color":"purple"}
+"academia-diaria.md":{"x":-86,"y":-12,"w":280,"h":200,"color":"paper"},
+"comprar-racao-florzinha.md":{"x":645,"y":-12,"w":280,"h":200,"color":"paper"},
+"eletrocardiograma.md":{"x":336,"y":380,"w":280,"h":200,"color":"pink"},
+"farmacologia.md":{"x":1008,"y":0,"w":280,"h":200,"color":"paper"},
+"notas.md":{"x":-547,"y":276,"w":288,"h":208,"color":"paper"},
+"revisao-pratica.md":{"x":-40,"y":719,"w":280,"h":200,"color":"paper"},
+"tomar-hipercalorico.md":{"x":336,"y":0,"w":280,"h":200,"color":"paper"},
+"trabalho-anato.md":{"x":1008,"y":256,"w":280,"h":200,"color":"paper"},
+"verificar-aulas-semana.md":{"x":726,"y":338,"w":280,"h":200,"color":"paper"}
 },
 "frames":[
 {"id":"f-mw5p9hbfsfe","title":"A FAZER","color":"pink","x":-83,"y":318,"w":366,"h":795},
