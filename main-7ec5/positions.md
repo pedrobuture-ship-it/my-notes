@@ -3,8 +3,8 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled.md":{"x":331,"y":618,"w":280,"h":200,"color":"paper"},
-"adicionar-ia-imagens.md":{"x":320,"y":353,"w":280,"h":200,"color":"green"},
+"adicionar-ia-imagens.md":{"x":-39,"y":346,"w":280,"h":200,"color":"green"},
+"terra.md":{"x":-39,"y":586,"w":280,"h":200,"color":"paper"},
 "verificar-licencas.md":{"x":320,"y":11,"w":280,"h":200,"color":"paper"},
 "verificar-memoria.md":{"x":-39,"y":11,"w":280,"h":200,"color":"paper"}
 },
