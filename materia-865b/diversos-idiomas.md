@@ -1,2 +1,0 @@
-# DIVERSOS IDIOMAS
-
