@@ -1,4 +1,4 @@
-# BM NOTES
+# BM Notes: Opções de Preços
 
-ANUAL 30 REAIS
-DEFINITIVA 100 REAIS
+Anual: R$ 30,00
+Definitiva: R$ 100,00
