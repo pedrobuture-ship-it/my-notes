@@ -3,9 +3,10 @@
 ```json
 {"version":1,
 "cards":{
+"Untitled.md":{"x":331,"y":359,"w":280,"h":200,"color":"paper"},
 "adicionar-ia-imagens.md":{"x":-39,"y":346,"w":280,"h":200,"color":"green"},
-"terra.md":{"x":-39,"y":586,"w":280,"h":200,"color":"blue"},
-"verificar-licencas.md":{"x":320,"y":11,"w":280,"h":200,"color":"paper"},
+"terra.md":{"x":645,"y":514,"w":280,"h":200,"color":"blue"},
+"verificar-licencas.md":{"x":297,"y":11,"w":280,"h":200,"color":"paper"},
 "verificar-memoria.md":{"x":-39,"y":11,"w":280,"h":200,"color":"paper"}
 },
 "frames":[
