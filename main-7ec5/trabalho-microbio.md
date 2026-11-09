@@ -1,3 +1,0 @@
-# TRABALHO MICROBIO
-
-achar grupo
