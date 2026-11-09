@@ -12,6 +12,12 @@
       "name": "Diarios",
       "folder": "diarios-ac09",
       "order": 1
+    },
+    {
+      "id": "caed",
+      "name": "PRS",
+      "folder": "prs-caed",
+      "order": 2
     }
   ]
 }
