@@ -1,3 +1,0 @@
-# Comprar Pão
-
-[[pagar-academia]]
