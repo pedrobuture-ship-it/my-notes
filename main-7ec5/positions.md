@@ -7,7 +7,7 @@
 "english.md":{"x":-3222,"y":-242,"w":280,"h":200,"color":"blue"},
 "ic.md":{"x":-3223,"y":330,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":579,"w":280,"h":200,"color":"purple"},
-"projeto-de-software.md":{"x":-3223,"y":80,"w":280,"h":200,"color":"pink"}
+"projeto-de-software.md":{"x":-3223,"y":82,"w":280,"h":200,"color":"pink"}
 },
 "frames":[
 {"id":"f-mw8abp4x0p9","title":"PLANOS","color":"purple","x":-3241,"y":-285,"w":1107,"h":292},
