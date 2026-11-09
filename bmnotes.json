@@ -6,6 +6,12 @@
       "name": "Main",
       "folder": "main-7ec5",
       "order": 0
+    },
+    {
+      "id": "ac09",
+      "name": "Diarios",
+      "folder": "diarios-ac09",
+      "order": 1
     }
   ]
 }
