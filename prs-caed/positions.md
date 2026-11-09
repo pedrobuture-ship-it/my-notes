@@ -3,9 +3,9 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled.md":{"x":733,"y":265,"w":280,"h":200,"color":"pink"},
-"atalhoskanban.md":{"x":61,"y":265,"w":280,"h":200,"color":"blue"},
-"botao-direito.md":{"x":400,"y":256,"w":280,"h":200,"color":"purple"}
+"Untitled.md":{"x":777,"y":391,"w":280,"h":200,"color":"pink"},
+"atalhoskanban.md":{"x":51,"y":391,"w":280,"h":200,"color":"blue"},
+"botao-direito.md":{"x":415,"y":391,"w":280,"h":200,"color":"purple"}
 },
 "frames":[
 {"id":"f-mw96h9v2yo8","title":"IDEAS","color":"pink","x":19,"y":213,"w":1071,"h":556}
