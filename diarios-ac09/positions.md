@@ -6,7 +6,7 @@
 "1-video-em-ingles.md":{"x":146,"y":555,"w":280,"h":200,"color":"blue"},
 "alongamento-e-fortalecimento.md":{"x":146,"y":213,"w":280,"h":200,"color":"yellow"},
 "hipercalorico.md":{"x":459,"y":213,"w":280,"h":200,"color":"green"},
-"remedio.md":{"x":1083,"y":217,"w":280,"h":200,"color":"purple"}
+"remedio.md":{"x":801,"y":217,"w":280,"h":200,"color":"purple"}
 },
 "frames":[
 {"id":"f-mw8l1dsxxzw","title":"HABITOS","color":"purple","x":117,"y":173,"w":1285,"h":287},
