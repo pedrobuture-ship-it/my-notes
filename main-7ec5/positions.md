@@ -12,7 +12,7 @@
 "frames":[
 {"id":"f-mw8abp4x0p9","title":"PLANOS","color":"purple","x":-3241,"y":-285,"w":768,"h":286},
 {"id":"f-mw8kuyij931","title":"A FAZER","color":"yellow","x":-3237,"y":36,"w":319,"h":1150},
-{"id":"f-mw8kwyphssc","title":"AGUARDANDO","color":"blue","x":-2897,"y":37,"w":773,"h":590},
+{"id":"f-mw8kwyphssc","title":"AGUARDANDO","color":"blue","x":-2400,"y":-191,"w":773,"h":590},
 {"id":"f-mw8kxbsjqyx","title":"FEITO","color":"pink","x":-2902,"y":665,"w":780,"h":519}
 ],
 "connections":[],
