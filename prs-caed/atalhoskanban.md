@@ -1,3 +1,3 @@
 # atalhoskanban
 
-adicionar atalhos
+adicionar atalhos super + numero abre a rota
