@@ -4,7 +4,7 @@
 {"version":1,
 "cards":{
 "Untitled.md":{"x":782,"y":279,"w":280,"h":200,"color":"pink"},
-"atalhoskanban.md":{"x":62,"y":279,"w":280,"h":200,"color":"blue"},
+"atalhoskanban.md":{"x":79,"y":279,"w":280,"h":200,"color":"blue"},
 "botao-direito.md":{"x":435,"y":279,"w":280,"h":200,"color":"purple"}
 },
 "frames":[
