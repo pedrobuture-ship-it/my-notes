@@ -3,11 +3,11 @@
 ```json
 {"version":1,
 "cards":{
-"aprimorar-videos.md":{"x":-2814,"y":-239,"w":280,"h":200,"color":"yellow"},
+"aprimorar-videos.md":{"x":-2855,"y":-239,"w":280,"h":200,"color":"yellow"},
 "english.md":{"x":-3223,"y":-239,"w":280,"h":200,"color":"blue"},
 "ic.md":{"x":-3223,"y":302,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":543,"w":280,"h":200,"color":"purple"},
-"projeto-de-software.md":{"x":-3223,"y":72,"w":280,"h":200,"color":"pink"}
+"projeto-de-software.md":{"x":-3223,"y":56,"w":280,"h":200,"color":"pink"}
 },
 "frames":[
 {"id":"f-mw8abp4x0p9","title":"PLANOS","color":"purple","x":-3241,"y":-285,"w":1107,"h":292},
