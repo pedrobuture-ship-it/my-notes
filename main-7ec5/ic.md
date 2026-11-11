@@ -1,4 +1,3 @@
 # IC
 
-corrigir o bug e enviar para professor
-[[Untitled]]
+quinta feira 10 horas sala agnelus
