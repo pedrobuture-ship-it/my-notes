@@ -3,10 +3,10 @@
 ```json
 {"version":1,
 "cards":{
-"arrumnar-plano-vitalico-white-theme.md":{"x":-2856,"y":-231,"w":280,"h":200,"color":"pink"},
+"arrumnar-plano-vitalico-white-theme.md":{"x":-2895,"y":-239,"w":280,"h":200,"color":"pink"},
 "corrigir-bug-rename.md":{"x":-3223,"y":-239,"w":280,"h":200,"color":"purple"},
 "homem-no-castelo-alto.md":{"x":-3215,"y":823,"w":280,"h":200,"color":"paper"},
-"ic.md":{"x":-3223,"y":69,"w":280,"h":200,"color":"green"},
+"ic.md":{"x":-3223,"y":67,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":563,"w":280,"h":200,"color":"purple"},
 "projeto-de-software.md":{"x":-3232,"y":301,"w":280,"h":200,"color":"pink"}
 },
