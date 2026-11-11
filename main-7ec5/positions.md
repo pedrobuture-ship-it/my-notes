@@ -3,11 +3,12 @@
 ```json
 {"version":1,
 "cards":{
+"alteracoes.md":{"x":-2868,"y":58,"w":280,"h":200,"color":"paper"},
 "arrumnar-plano-vitalico-white-theme.md":{"x":-2895,"y":-239,"w":280,"h":200,"color":"pink"},
 "corrigir-bug-rename.md":{"x":-3223,"y":-239,"w":280,"h":200,"color":"purple"},
-"homem-no-castelo-alto.md":{"x":-3215,"y":823,"w":280,"h":200,"color":"paper"},
+"homem-no-castelo-alto.md":{"x":-3223,"y":790,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3223,"y":67,"w":280,"h":200,"color":"green"},
-"jogo-trilha-sonora.md":{"x":-3223,"y":563,"w":280,"h":200,"color":"purple"},
+"jogo-trilha-sonora.md":{"x":-3223,"y":543,"w":280,"h":200,"color":"purple"},
 "projeto-de-software.md":{"x":-3232,"y":301,"w":280,"h":200,"color":"pink"}
 },
 "frames":[
