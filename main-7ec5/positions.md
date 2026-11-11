@@ -3,11 +3,10 @@
 ```json
 {"version":1,
 "cards":{
-"english.md":{"x":-3204,"y":-239,"w":280,"h":200,"color":"blue"},
 "homem-no-cadtelo-alto.md":{"x":-3215,"y":823,"w":280,"h":200,"color":"paper"},
-"ic.md":{"x":-3223,"y":290,"w":280,"h":200,"color":"green"},
+"ic.md":{"x":-3223,"y":69,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":563,"w":280,"h":200,"color":"purple"},
-"projeto-de-software.md":{"x":-3223,"y":60,"w":280,"h":200,"color":"pink"}
+"projeto-de-software.md":{"x":-3215,"y":295,"w":280,"h":200,"color":"pink"}
 },
 "frames":[
 {"id":"f-mw8abp4x0p9","title":"PLANOS","color":"purple","x":-3241,"y":-285,"w":1107,"h":292},
