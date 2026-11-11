@@ -5,7 +5,7 @@
 "cards":{
 "Untitled.md":{"x":730,"y":283,"w":275,"h":206,"color":"pink"},
 "atalhoskanban.md":{"x":54,"y":289,"w":280,"h":200,"color":"green"},
-"botao-direito.md":{"x":399,"y":289,"w":280,"h":200,"color":"blue"},
+"botao-direito.md":{"x":410,"y":283,"w":280,"h":200,"color":"blue"},
 "kanban-cards.md":{"x":43,"y":537,"w":330,"h":317,"color":"purple"},
 "mandar-tiago.md":{"x":469,"y":521,"w":694,"h":404,"color":"yellow"}
 },
