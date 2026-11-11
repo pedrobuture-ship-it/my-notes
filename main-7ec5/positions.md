@@ -3,7 +3,8 @@
 ```json
 {"version":1,
 "cards":{
-"homem-no-cadtelo-alto.md":{"x":-3215,"y":823,"w":280,"h":200,"color":"paper"},
+"corrigir-bug-rename.md":{"x":-3159,"y":-234,"w":280,"h":200,"color":"paper"},
+"homem-no-castelo-alto.md":{"x":-3215,"y":823,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3223,"y":69,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":563,"w":280,"h":200,"color":"purple"},
 "projeto-de-software.md":{"x":-3215,"y":295,"w":280,"h":200,"color":"pink"}
