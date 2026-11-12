@@ -9,6 +9,7 @@
 "arrumnar-plano-vitalico-white-theme.md":{"x":-2872,"y":-239,"w":280,"h":200,"color":"pink"},
 "corrigir-bug-rename.md":{"x":-3223,"y":-239,"w":280,"h":200,"color":"purple"},
 "homem-no-castelo-alto.md":{"x":-3223,"y":790,"w":280,"h":200,"color":"paper"},
+"ia-local.md":{"x":-2836,"y":399,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3223,"y":67,"w":280,"h":200,"color":"green"},
 "jogo-trilha-sonora.md":{"x":-3223,"y":548,"w":269,"h":199,"color":"purple"},
 "melhorias-agente.md":{"x":-2533,"y":-227,"w":280,"h":200,"color":"paper"},
