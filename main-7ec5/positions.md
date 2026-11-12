@@ -3,13 +3,13 @@
 ```json
 {"version":1,
 "cards":{
-"alteracoes.md":{"x":-2868,"y":58,"w":280,"h":200,"color":"paper"},
+"alteracoes.md":{"x":-2861,"y":67,"w":280,"h":200,"color":"paper"},
 "arrumnar-plano-vitalico-white-theme.md":{"x":-2895,"y":-239,"w":280,"h":200,"color":"pink"},
 "corrigir-bug-rename.md":{"x":-3223,"y":-239,"w":280,"h":200,"color":"purple"},
 "homem-no-castelo-alto.md":{"x":-3223,"y":790,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3223,"y":67,"w":280,"h":200,"color":"green"},
-"jogo-trilha-sonora.md":{"x":-3223,"y":543,"w":280,"h":200,"color":"purple"},
-"projeto-de-software.md":{"x":-3232,"y":301,"w":280,"h":200,"color":"pink"}
+"jogo-trilha-sonora.md":{"x":-3223,"y":548,"w":269,"h":199,"color":"purple"},
+"projeto-de-software.md":{"x":-3222,"y":304,"w":270,"h":197,"color":"pink"}
 },
 "frames":[
 {"id":"f-mw8abp4x0p9","title":"PLANOS","color":"purple","x":-3241,"y":-285,"w":1107,"h":292},
