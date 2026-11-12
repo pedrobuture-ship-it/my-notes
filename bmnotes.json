@@ -18,12 +18,6 @@
       "name": "PRS",
       "folder": "prs-caed",
       "order": 2
-    },
-    {
-      "id": "e04a",
-      "name": "teste",
-      "folder": "teste-e04a",
-      "order": 3
     }
   ]
 }
