@@ -5,9 +5,9 @@
 "cards":{
 "arrumnar-plano-vitalico-white-theme.md":{"x":-2899,"y":-239,"w":280,"h":200,"color":"pink"},
 "corrigir-bug-renam.md":{"x":-3218,"y":-239,"w":280,"h":200,"color":"purple"},
-"homem-no-castelo-alto.md":{"x":-3223,"y":792,"w":280,"h":200,"color":"paper"},
+"homem-no-castelo-alto.md":{"x":-3217,"y":532,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3223,"y":67,"w":280,"h":200,"color":"green"},
-"jogo-trilha-sonora.md":{"x":-3218,"y":551,"w":269,"h":199,"color":"purple"},
+"jogo-trilha-sonora.md":{"x":-3217,"y":300,"w":269,"h":199,"color":"purple"},
 "melhorias-agente.md":{"x":-2551,"y":-239,"w":280,"h":200,"color":"paper"}
 },
 "frames":[
