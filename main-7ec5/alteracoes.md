@@ -1,3 +1,0 @@
-# alteracoes
-
-adicionar ia 
