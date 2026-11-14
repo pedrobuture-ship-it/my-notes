@@ -5,6 +5,7 @@
 "cards":{
 "1-video-em-ingles.md":{"x":802,"y":241,"w":187,"h":111,"color":"blue"},
 "alongamento-e-fortalecimento.md":{"x":580,"y":235,"w":192,"h":117,"color":"yellow"},
+"daily/2026-11-13.md":{"x":0,"y":618,"w":280,"h":200,"color":"paper"},
 "hipercalorico.md":{"x":363,"y":237,"w":180,"h":113,"color":"green"},
 "remedio.md":{"x":160,"y":424,"w":191,"h":114,"color":"purple"}
 },
