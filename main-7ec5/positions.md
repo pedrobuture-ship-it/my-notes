@@ -5,6 +5,7 @@
 "cards":{
 "bugs.md":{"x":-3372,"y":562,"w":280,"h":200,"color":"yellow"},
 "comprar-racao.md":{"x":-3359,"y":342,"w":280,"h":200,"color":"red"},
+"contas-pai.md":{"x":-3029,"y":1065,"w":280,"h":200,"color":"paper"},
 "ic.md":{"x":-3372,"y":55,"w":280,"h":200,"color":"purple"},
 "implementar-pix.md":{"x":-3050,"y":342,"w":280,"h":200,"color":"red"},
 "mandar-mensagem-conhecidos.md":{"x":-3050,"y":566,"w":280,"h":200,"color":"blue"},
