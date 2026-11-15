@@ -1,2 +1,0 @@
-# Homem no cadtelo alto
-

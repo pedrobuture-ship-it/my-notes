@@ -1,4 +1,3 @@
 # IC
 
-sexta
-feira 10 horas sala agnelus
+sexta feira 9 as 11:50
