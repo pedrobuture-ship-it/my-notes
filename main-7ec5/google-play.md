@@ -1,2 +1,1 @@
-# Google Play
-
+# Google Play e Apple
