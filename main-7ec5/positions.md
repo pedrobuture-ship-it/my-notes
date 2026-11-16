@@ -8,12 +8,12 @@
 "contas-pai.md":{"x":-3046,"y":1036,"w":284,"h":198,"color":"red"},
 "google-play.md":{"x":-3368,"y":1026,"w":280,"h":200,"color":"green"},
 "ic.md":{"x":-3372,"y":55,"w":280,"h":200,"color":"purple"},
-"implementar-pix.md":{"x":-2693,"y":352,"w":270,"h":188,"color":"red"},
-"implementar-tema-woke-real.md":{"x":-3046,"y":795,"w":280,"h":200,"color":"paper"},
+"implementar-pix.md":{"x":-2693,"y":342,"w":270,"h":188,"color":"red"},
+"implementar-tema-woke-real.md":{"x":0,"y":1327,"w":280,"h":200,"color":"paper"},
 "mandar-mensagem-conhecidos.md":{"x":-3048,"y":552,"w":280,"h":200,"color":"blue"},
 "otimizar.md":{"x":-3368,"y":795,"w":280,"h":200,"color":"blue"},
 "planjear-versao-desktop.md":{"x":-3050,"y":342,"w":280,"h":200,"color":"green"},
-"tim.md":{"x":-2714,"y":826,"w":280,"h":200,"color":"pink"},
+"tim.md":{"x":336,"y":1327,"w":280,"h":200,"color":"paper"},
 "ver-kernel-linux.md":{"x":-2402,"y":826,"w":280,"h":200,"color":"green"}
 },
 "frames":[
