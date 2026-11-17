@@ -1,2 +1,0 @@
-# Implementar Tema Woke Real
-
