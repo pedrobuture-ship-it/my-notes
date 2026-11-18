@@ -1,6 +1,6 @@
 # Habitos
 
-- [x] Remedio
+- [ ] Remedio
 - [ ] Alongamento
 - [ ] Podcast Joe Rogan
 - [ ] Fruta
