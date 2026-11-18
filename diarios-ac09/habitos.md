@@ -2,6 +2,6 @@
 
 - [ ] Remedio
 - [ ] Alongamento
-- [ ] Podcast Joe Rogan
-- [ ] Fruta
+- [x] Podcast Joe Rogan
+- [x] Fruta
       
