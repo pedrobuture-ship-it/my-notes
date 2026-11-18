@@ -16,6 +16,7 @@
 "primeiro-uso-app.md":{"x":-3017,"y":823,"w":280,"h":200,"color":"pink"},
 "remote-notebooks.md":{"x":-3368,"y":845,"w":318,"h":345,"color":"blue"},
 "revisar-plugins-em-geral.md":{"x":-3368,"y":599,"w":311,"h":217,"color":"yellow"},
+"revisar-uso-leigo.md":{"x":-2693,"y":1068,"w":280,"h":200,"color":"red"},
 "tema-default-bm.md":{"x":-3050,"y":366,"w":280,"h":200,"color":"red"},
 "tim.md":{"x":-3368,"y":366,"w":280,"h":200,"color":"red"},
 "ui-changes.md":{"x":-3011,"y":1077,"w":280,"h":200,"color":"yellow"}
