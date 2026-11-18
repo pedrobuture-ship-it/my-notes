@@ -3,17 +3,15 @@
 ```json
 {"version":1,
 "cards":{
-"Agenda/2026-11-20 Ic.md":{"x":0,"y":1378,"w":280,"h":200,"color":"paper"},
-"bugs.md":{"x":-3365,"y":562,"w":273,"h":207,"color":"yellow"},
-"comprar-racao.md":{"x":-3372,"y":342,"w":280,"h":200,"color":"red"},
-"contas-pai.md":{"x":-3054,"y":1030,"w":284,"h":198,"color":"red"},
-"google-play.md":{"x":-3368,"y":795,"w":280,"h":200,"color":"green"},
-"ic.md":{"x":-3372,"y":55,"w":280,"h":200,"color":"purple"},
+"Agenda/2026-11-20 Ic.md":{"x":-3368,"y":53,"w":280,"h":200,"color":"red"},
+"bugs.md":{"x":-2362,"y":342,"w":222,"h":188,"color":"yellow"},
+"contas-pai.md":{"x":-3041,"y":366,"w":284,"h":198,"color":"red"},
+"google-play.md":{"x":-2391,"y":817,"w":280,"h":200,"color":"green"},
 "implementar-pix.md":{"x":-2693,"y":342,"w":270,"h":188,"color":"red"},
-"mandar-mensagem-conhecidos.md":{"x":-3048,"y":552,"w":280,"h":200,"color":"blue"},
-"planjear-versao-desktop.md":{"x":-3050,"y":342,"w":280,"h":200,"color":"green"},
-"tim.md":{"x":-3365,"y":1028,"w":280,"h":200,"color":"red"},
-"ver-kernel-linux.md":{"x":-3046,"y":795,"w":280,"h":200,"color":"green"}
+"mandar-mensagem-conhecidos.md":{"x":-3368,"y":366,"w":280,"h":200,"color":"blue"},
+"planjear-versao-desktop.md":{"x":-2391,"y":1039,"w":280,"h":200,"color":"green"},
+"tim.md":{"x":-3368,"y":597,"w":280,"h":200,"color":"red"},
+"ver-kernel-linux.md":{"x":-2391,"y":566,"w":280,"h":200,"color":"green"}
 },
 "frames":[
 {"id":"f-mwhat5vidoo","title":"AGENDA","color":"purple","x":-3394,"y":11,"w":1313,"h":283},
