@@ -3,7 +3,7 @@
 ```json
 {"version":1,
 "cards":{
-"Untitled.md":{"x":-2703,"y":1098,"w":280,"h":200,"color":"paper"},
+"Agenda/2026-11-20 Ic.md":{"x":0,"y":1378,"w":280,"h":200,"color":"paper"},
 "bugs.md":{"x":-3365,"y":562,"w":273,"h":207,"color":"yellow"},
 "comprar-racao.md":{"x":-3372,"y":342,"w":280,"h":200,"color":"red"},
 "contas-pai.md":{"x":-3054,"y":1030,"w":284,"h":198,"color":"red"},
@@ -12,7 +12,6 @@
 "implementar-pix.md":{"x":-2693,"y":342,"w":270,"h":188,"color":"red"},
 "mandar-mensagem-conhecidos.md":{"x":-3048,"y":552,"w":280,"h":200,"color":"blue"},
 "planjear-versao-desktop.md":{"x":-3050,"y":342,"w":280,"h":200,"color":"green"},
-"precos-solda-sergio-plugin-financeiro.md":{"x":-2703,"y":830,"w":280,"h":200,"color":"yellow"},
 "tim.md":{"x":-3365,"y":1028,"w":280,"h":200,"color":"red"},
 "ver-kernel-linux.md":{"x":-3046,"y":795,"w":280,"h":200,"color":"green"}
 },
