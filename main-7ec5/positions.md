@@ -11,7 +11,7 @@
 "exportar.md":{"x":-2703,"y":823,"w":280,"h":200,"color":"red"},
 "google-play.md":{"x":-2391,"y":817,"w":280,"h":200,"color":"green"},
 "implementar-pix.md":{"x":-2693,"y":342,"w":270,"h":188,"color":"red"},
-"mandar-mensagem-conhecidos.md":{"x":-3330,"y":1239,"w":280,"h":200,"color":"blue"},
+"mandar-mensagem-conhecidos.md":{"x":-3368,"y":1219,"w":308,"h":193,"color":"blue"},
 "planjear-versao-desktop.md":{"x":-2391,"y":1039,"w":280,"h":200,"color":"green"},
 "primeiro-uso-app.md":{"x":-3017,"y":823,"w":280,"h":200,"color":"pink"},
 "remote-notebooks.md":{"x":-3368,"y":845,"w":318,"h":345,"color":"blue"},
