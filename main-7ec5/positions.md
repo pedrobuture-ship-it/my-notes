@@ -4,8 +4,8 @@
 {"version":1,
 "cards":{
 "Agenda/2026-11-20 IC.md":{"x":-3369,"y":53,"w":280,"h":200,"color":"green"},
-"Desenho 2026-11-18 20-35.md":{"x":-2403,"y":415,"w":280,"h":200,"color":"paper"},
-"Untitled.md":{"x":-3327,"y":1478,"w":280,"h":200,"color":"paper"},
+"Desenho 2026-11-18 20-35.md":{"x":-2397,"y":336,"w":280,"h":200,"color":"paper"},
+"Untitled.md":{"x":0,"y":1819,"w":280,"h":200,"color":"paper"},
 "contas-pai.md":{"x":-3367,"y":802,"w":284,"h":198,"color":"red"},
 "criar-modo-leitura.md":{"x":-3043,"y":800,"w":280,"h":200,"color":"green"},
 "cupom-nanda.md":{"x":-2728,"y":802,"w":280,"h":200,"color":"red"},
